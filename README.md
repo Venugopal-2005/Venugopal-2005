@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hello, I'm Venugopal K!
 
-<!--
-**Venugopal-2005/Venugopal-2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Computer Science Engineering student at SRM University  
+💻 Passionate about **Web Development** and building user-friendly web apps  
+🚀 Currently working in the **Future Interns Online Internship**  
+✅ Previously completed an internship at **Agratus Academy**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with me:
+- Email: [vk4772@srmist.edu.in](mailto:vk4772@srmist.edu.in)  
+- LinkedIn: [linkedin.com/in/venugopal-k-0bba49287](https://www.linkedin.com/in/venugopal-k-0bba49287/)
+
+---
+
+### 🔧 Tools & Technologies I Use:
+![HTML](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5)  
+![CSS](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)  
+![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
+
+---
+
+### 📈 GitHub Stats:
+![Venugopal's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
