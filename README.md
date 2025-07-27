@@ -19,7 +19,3 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)  
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 
----
-
-### 📈 GitHub Stats:
-![Venugopal's GitHub stats](https://github-readme-stats.vercel.app/api?username=venugopalk&show_icons=true&theme=radical)
