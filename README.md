@@ -9,6 +9,7 @@
 
 ### 📫 Connect with me:
 - Email: [vk4772@srmist.edu.in](mailto:vk4772@srmist.edu.in)  
+- Personl email: [venu170305@gmail.com](mailto:venu170305@gmail.com)
 - LinkedIn: [linkedin.com/in/venugopal-k-0bba49287](https://www.linkedin.com/in/venugopal-k-0bba49287/)
 
 ---
