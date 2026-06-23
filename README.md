@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Venugopal K!
 
-🎓 I'm a Computer Science Engineering, Pre-Final year student at SRM University  
-💻 Passionate about **Web Development, Computer Vision and ML- Domain specified: Healthcare, Agriculture ** and building user-friendly web apps  
+🎓 I'm a Computer Science Engineering, Final year student at SRM University  
+💻 Passionate about **Java FullStack Development, Computer Vision and ML- Domain specified: Healthcare, Agriculture ** and building user-friendly web apps  
 🚀 Currently working in the **Software Engineering, Development,...,  Data Mining and Analytics, Data Science, Global certification: Fortinet Certified Associate**  
 ✅ Previously completed an internship at **MSPL Pvt Ltd, Baldota Organization and few Virtual Internships**
 
