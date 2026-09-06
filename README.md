@@ -3,7 +3,7 @@
 My Portfolio : my-portfolio-v1-topaz.vercel.app
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3500&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Java+Full+Stack+Developer;AI+%7C+Computer+Vision+%7C+Machine+Learning;Spring+Boot+Microservices+Enthusiast;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3500&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Interested+in+Data+Science;Java+Full+Stack+Development;AI+%7C+Computer+Vision+%7C+Machine+Learning;Spring+Boot+Microservices+Enthusiast;Always+Learning+New+Technologies" />
 </p>
 
 ---
@@ -15,6 +15,7 @@ My Portfolio : my-portfolio-v1-topaz.vercel.app
 💡 Passionate about designing scalable software solutions and solving real-world problems through technology.
 
 🔹 Interested in:
+- Data Science
 - Java Full Stack Development
 - Spring Boot Microservices
 - Artificial Intelligence & Machine Learning
@@ -30,19 +31,22 @@ My Portfolio : my-portfolio-v1-topaz.vercel.app
 - Data Mining & Analytics
 - Machine Learning
 - Cloud Technologies
+- Low Code/ No code
 
 🏆 Certifications
+- Tata iQ – GenAI Powered Data Analytics Job Simulation
+- SAP Analytics Cloud
 - Fortinet Certified Associate
 - Machine Learning
 - Python Programming
 - Database Management Systems
 - Internet of Things
 - Cyber Security
-- SAP Analytics Cloud
+- Linkedin Learning: Learning Java 17, Iot Foundations, OS
 
 💼 Experience
 - Computer Vision Intern – MSPL Pvt. Ltd. (Baldota Organization)
-- Virtual Internship Programs in Software Development & AI
+- Virtual Internship Programs in Software Development, Web development AI
 
 ---
 
