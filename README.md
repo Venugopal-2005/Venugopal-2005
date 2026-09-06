@@ -149,20 +149,6 @@ Accuracy Achieved: **94.46%**
 
 ---
 
-## 🌱 Currently Learning
-
-- Advanced Spring Boot
-- Microservices Architecture
-- Docker & Kubernetes
-- Cloud Deployment
-- System Design
-- Distributed Computing
-
----
-
-## 🎯 Career Objective
-
-I aspire to become a Software Engineer who builds scalable, secure, and impactful software solutions while continuously learning emerging technologies in AI, Cloud Computing, and Full Stack Development.
 
 ---
 
