@@ -15,12 +15,11 @@ My Portfolio : my-portfolio-v1-topaz.vercel.app
 💡 Passionate about designing scalable software solutions and solving real-world problems through technology.
 
 🔹 Interested in:
-- Data Science
+- Data Science & Analytics
+- Computer Vision
 - Java Full Stack Development
 - Spring Boot Microservices
 - Artificial Intelligence & Machine Learning
-- Computer Vision
-- Data Science & Analytics
 - Cloud Computing
 - Digital Banking Solutions
 - Agriculture AI Applications
