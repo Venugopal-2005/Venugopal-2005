@@ -59,6 +59,8 @@ https://www.linkedin.com/in/venugopal-k-0bba49287/
 🐙 **GitHub:**  
 https://github.com/Venugopal-2005
 
+AgriXAI Project : https://github.com/941-Abhi/Crop_Yield_Prediction_System/blob/main/README.md
+
 ---
 
 # 💻 Tech Stack
